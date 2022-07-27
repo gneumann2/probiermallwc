@@ -1,5 +1,5 @@
-// app.js
 import { LightningElement } from 'lwc';
+
 export default class App extends LightningElement {
     bike = {
         name: 'Electra X4',
